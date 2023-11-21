@@ -5,7 +5,7 @@ main:
 # - title: "About"
   #url: https://oconnell9.github.io/about/
  - title: "Posts"
- # url: /posts/
+   url: /posts/
  #- title: "Projects and Code"
   #url: /projects/
 #- title: "Sitemap"
