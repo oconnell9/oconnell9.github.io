@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Erin C. O'Connell"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/head.jpg"
   bio              : "Highly interested in animal movement models, spatial ecology, and remote sensing"
   location         : "Raleigh, NC"
   email            : "eoconne@ncsu.edu"
