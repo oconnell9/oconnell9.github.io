@@ -10,5 +10,5 @@ main:
   #url: /projects/
 #- title: "Sitemap"
  # url: /sitemap/
-#- title: "CV"
- # url: /CV/
+ title: "CV"
+ file: OConnell_CV23.pdf
