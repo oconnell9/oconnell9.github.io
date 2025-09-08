@@ -111,9 +111,9 @@ analytics:
 author:
   name             : "Erin C. O'Connell"
   avatar           : "/assets/head.jpg"
-  bio              : "PhD Student, Quantitative Ecologist and Data Scientist"
-  location         : "Raleigh, NC"
-  email            : "eoconne@ncsu.edu"
+  bio              : "Quantitative Ecologist and Data Scientist"
+  location         : "TX"
+  email            : "oconnell.kco@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
