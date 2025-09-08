@@ -25,7 +25,7 @@ title                    : "Erin C. O'Connell"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Erin C. O'Connell"
-description              : "PhD Student, Quantitative Ecologist and Data Scientist."
+description              : "Quantitative Ecologist and Data Scientist."
 url                      : "https://oconnell9.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
